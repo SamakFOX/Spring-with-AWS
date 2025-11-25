@@ -5,7 +5,7 @@
 > 아래 버튼(예시)을 통해 각 문서를 읽어보실 수 있으며  
 > 설명 간 작성한 코드 또는 프로젝트는 /Projects/ 하위에 분류되어 업로드됩니다.  
 
-| 00. 대분류 제목 | [![읽어보기](https://img.shields.io/badge/읽어보기-blue?style=for-the-badge)](https://github.com/SamakFOX/Spring-with-AWS/blob/main/spring/01_%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8.md)   |
+| 00. 대분류 제목 | [![읽어보기](https://img.shields.io/badge/읽어보기-blue?style=for-the-badge)](https://github.com/SamakFOX/SWEA-Original/blob/main/test.md)   |
 |:---:|:---:|
 
 ### 01. 스프링 부트 (Spring Boot)
